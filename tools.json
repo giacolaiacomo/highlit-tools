@@ -1,0 +1,37 @@
+[
+ {
+  "name": "Chronicles of the Realm",
+  "keyword": "JIANGSHAN",
+  "about": "Drag a timeline through 2,400 years of Chinese history and click any ancient city to see how its name and rulers changed.",
+  "url": "https://github.com/DeanChensj/jiangshan-map",
+  "date": "2026-11-18"
+ },
+ {
+  "name": "Nuclear",
+  "keyword": "NUCLEAR",
+  "about": "A free, open-source music player with no ads or tracking that works on Windows, Mac, and Linux.",
+  "url": "https://github.com/nukeop/nuclear",
+  "date": "2026-11-18"
+ },
+ {
+  "name": "AB Download Manager",
+  "keyword": "ABDM",
+  "about": "A free, open-source desktop app that organizes your downloads with queues, schedulers and browser extensions.",
+  "url": "https://github.com/amir1376/ab-download-manager",
+  "date": "2026-11-18"
+ },
+ {
+  "name": "BongoCat",
+  "keyword": "BONGOCAT",
+  "about": "A free desktop cat for Windows and macOS that follows your mouse and reacts to every key you press.",
+  "url": "https://github.com/ayangweb/BongoCat",
+  "date": "2026-11-18"
+ },
+ {
+  "name": "Filee",
+  "keyword": "FILEE",
+  "about": "Convert images, PDFs, documents and more just by dragging files onto a format, offline and free.",
+  "url": "https://github.com/KnifeLemon/Filee",
+  "date": "2026-11-18"
+ }
+]
